@@ -1,0 +1,2 @@
+[Wed Dec 30 20:26:48.498884 2020] [autoindex:error] [pid 9705] [client 212.83.146.233:38219] AH01276: Cannot serve directory /home/visitdairi/adminsite/public/css/: No matching DirectoryIndex (index.html,index.php) found, and server-generated directory index forbidden by Options directive
+[Wed Dec 30 20:26:48.922087 2020] [autoindex:error] [pid 9532] [client 212.83.146.233:50315] AH01276: Cannot serve directory /home/visitdairi/adminsite/public/img/: No matching DirectoryIndex (index.html,index.php) found, and server-generated directory index forbidden by Options directive
